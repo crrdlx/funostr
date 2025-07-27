@@ -1,0 +1,2 @@
+# funostr
+Fun nostr client
